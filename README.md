@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rajivwadhwa/rajivwadhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Bit about me in some bytes. 
 
 - 🔭 I’m currently working on data science & CV projects
