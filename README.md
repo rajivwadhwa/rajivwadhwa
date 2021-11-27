@@ -2,9 +2,9 @@
 
 Bit about me in some bytes. 
 
-- 🔭 I’m currently working on data science & CV projects
-- 🌱 I’m currently learning sklearn, YOLOv3, GIS & Python
-- 🤔 I’m looking for help with GIS & python project
+- 🔭 I’m currently working towards Data Science (Generalist and Geospatial Data Scientist) & Computer Vision projects.
+- 🌱 I’m currently learning sklearn, GIS & Python, CV & YOLOv3.
+- 🤔 I’m looking for help with GIS & python project.
 - 📫 How to reach me: linked in - www.linkedin.com/in/rajivswadhwa
 - 😄 Pronouns: He/Him
-- ⚡ Fact: I am a civil engineer too. 
+- ⚡ Fact about me: Along with computational science engineer, I am a civil and environmental engineer too. 
